@@ -1,6 +1,5 @@
 :root {
   --oui-font-family: 'Manrope', sans-serif;
-  --oui-font-size-base: 16px;
   --oui-color-primary: 176 132 233;
   --oui-color-primary-light: 213 190 244;
   --oui-color-primary-darken: 137 76 209;
@@ -36,6 +35,8 @@
   --oui-color-base-10: 14 13 18;
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
+  --oui-color-base-static: 255 255 255;
+  --oui-color-base-static-contrast: 0 0 0;
   --oui-color-trading-loss: 245 97 139;
   --oui-color-trading-loss-contrast: 255 255 255;
   --oui-color-trading-profit: 41 233 169;
