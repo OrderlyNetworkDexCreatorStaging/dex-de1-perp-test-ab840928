@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "de1_dex_test",
-  "VITE_ORDERLY_BROKER_NAME": "de1_perp_test",
+  "VITE_ORDERLY_BROKER_NAME": "D1_Test",
   "VITE_BROKER_EOA_ADDRESS": "0xecaa40d08f20908074bea34ea6a7e8bc5bf0bfa4",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "de1_perp_test",
+  "VITE_APP_NAME": "D1_Test",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
@@ -40,7 +40,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"00000000-0000-4000-8000-000000000001\",\"displayName\":\"Default\",\"mode\":\"dark\",\"isDefault\":true}]",
   "VITE_ANALYTICS_SCRIPT": "{}",
   "VITE_ANALYTICS_CONFIG": "",
-  "VITE_SYMBOL_LIST": "PERP_BTC_USDC,PERP_BTC_USDC_de1_dex_test,PERP_ETH_USDC,PERP_SOL_USDC,PERP_XRP_USDC",
+  "VITE_SYMBOL_LIST": "PERP_BTC_USDC,PERP_BTC_USDC_de1_dex_test,PERP_ETH_USDC,PERP_SOL_USDC_de1_dex_test,PERP_XRP_USDC",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
 };
